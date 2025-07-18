@@ -37,6 +37,7 @@
   }
 }
 .form-container {
+
   max-width: 400px;
   margin: 60px auto;
   padding: 30px 25px;
@@ -44,6 +45,7 @@
   border-radius: 15px;
   box-shadow: 0 4px 20px rgb(50, 217, 217);
   font-family: cursive;
+  
 }
 
 h2 {
